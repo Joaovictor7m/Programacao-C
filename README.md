@@ -8,7 +8,7 @@ Anotações importantes
 
 
 
-* Principais especificadores utilizados: *
+* Principais especificadores utilizados: 
 
  
 %d: Imprime um inteiro no formato decimal.
